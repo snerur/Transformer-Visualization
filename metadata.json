@@ -1,0 +1,6 @@
+{
+  "name": "Transformer Architecture Explainer",
+  "description": "An interactive, visual guide to how Transformer large language models work — from tokenization and embeddings to multi-head self-attention, MLP layers, and next-token sampling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
